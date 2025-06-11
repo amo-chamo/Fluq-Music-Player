@@ -1,7 +1,7 @@
 import os
 import sqlite3
 
-DB_PATH = "database.db"
+DB_PATH = "../database.db"
 
 
 def get_connection():
